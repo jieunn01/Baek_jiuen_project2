@@ -4,7 +4,7 @@
 
 ### Description: Typography on the web. Students will be given copy and a few images to work with. The goal is to prepare students for the midterm project.
 
-### Include wireframe, design file, and outline
+### Include wireframe, design files, and documnet outline
 
 ### Requirements: responsible for selecHng appropriate fonts (using the techniques covered in class i.e. google fonts or CSS3 @font-face) and CSS styles to enhance the copy. Line Height, Leler Spacing, Font Weight, Colour and Type are the key components to this assignment.
 
