@@ -1,6 +1,8 @@
 ## MMED-1056 Web development
 
-## Project 2: Web Typography  -STYLING TEXT ON THE WEB
+## Project 2
+
+Web Typography  -STYLING TEXT ON THE WEB
 
 ### Description
 
